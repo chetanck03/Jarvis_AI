@@ -18,8 +18,7 @@ Ensure you have the following API keys:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jarvis-ai.git
-   cd jarvis-ai
+   git clone https://github.com/chetanck03/Jarvis_Ai.git
    ```
 2. Create a virtual environment and activate it:
    ```bash
